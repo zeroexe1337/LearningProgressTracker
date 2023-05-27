@@ -1,4 +1,4 @@
-This program allows you to track the progress of students who are signed to four different courses.
+Track the progress of students who are signed to four courses.
 - enter 'add students' to append a new student to a database
 - enter 'add points' to increase a score of student in his exams
 - enter 'list' to show list of current students in database by their id
